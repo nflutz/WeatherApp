@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="search">search</string>
+    <string name="search_hint">Enter a zip code</string>
+    <string name="remove_button">remove</string>
+    <string name="details">details</string>
+    <string name="location">%1$s (%2$d)</string>
+    <string name="button_search">search</string>
+    <string name="search_zip_hint">zip code</string>
+    <string name="title_details">Weather Details</string>
+</resources>
